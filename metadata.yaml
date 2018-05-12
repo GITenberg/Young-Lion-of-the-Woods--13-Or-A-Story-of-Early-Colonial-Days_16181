@@ -1,0 +1,24 @@
+_repo: Young-Lion-of-the-Woods--13-Or-A-Story-of-Early-Colonial-Days_16181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Thomas Barlow
+    gutenberg_agent_id: '6526'
+    url: http://www.gutenberg.org/2009/agents/6526
+description: ''
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Godfrey, Charles, 1730- -- Fiction'
+title: "Young Lion of the Woods\r\nOr, A Story of Early Colonial Days"
+url: http://www.gutenberg.org/ebooks/16181
